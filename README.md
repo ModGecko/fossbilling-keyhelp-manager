@@ -20,6 +20,11 @@ It supports:
 - Account cancellation
 - Direct client login URL retrieval
 
+## Beta Notice
+
+⚠️ **This is a BETA release (v0.0.1)** - the module works as of this release date, but issues may occur.  
+Please report any bugs or unexpected behavior via the **GitHub Issues** page so they can be addressed in future updates.
+
 ---
 
 ## Requirements
