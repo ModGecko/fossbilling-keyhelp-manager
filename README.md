@@ -32,10 +32,10 @@ It supports:
 
 ## Installation
 
-1. Clone or download this repository into your FOSSBilling `modules/Server` directory.
+1. Clone or download this repository into your FOSSBilling `/library/Server/Manager` directory.
 2. Configure a new server in FOSSBilling using this module.
 3. Provide your **KeyHelp hostname/IP** and **API key** in the server settings.
-4. Make sure your products have the **custom parameter** `id_hosting_plan` with the correct plan ID from KeyHelp.
+4. Make sure your products have the **custom parameter** `id_hosting_plan` with the correct plan ID from KeyHelp. (Do not use the name of the Template it has to be a number, you can find it in the url if you edit the Template in KeyHelp)
 
 ---
 
