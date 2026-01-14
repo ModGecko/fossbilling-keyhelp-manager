@@ -4,7 +4,15 @@
 ![FOSSBilling](https://img.shields.io/badge/FOSSBilling-0.7.2+-green)
 ![License](https://img.shields.io/badge/License-GPLv3-blue)
 
-**Coded and maintained by [@Pyryxe (Hadrian)](https://github.com/Pyryxe)**
+> [!TIP]
+> ### 🛠️ Need Support or Installation Help?
+> We provide **free** official support and professional services for this module.
+>
+> * **❓ General Support:** View our available support channels at [modgecko.com/support](https://modgecko.com/support).
+> * **🐛 Bug Reports:** Found a glitch? Please open a public [Issue on GitHub](https://github.com/ModGecko/fossbilling-keyhelp-manager/issues).
+> * **🔐 Security Issues:** Do **NOT** report security flaws on GitHub. Please submit a private ticket via our [Support Center](https://modgecko.com/support).
+
+**Maintained by the [ModGecko Team](https://modgecko.com)**
 
 ---
 
@@ -36,6 +44,9 @@ Please report any bugs or unexpected behavior via the **GitHub Issues** page so 
 ---
 
 ## Installation
+
+> 📖 **Need a step-by-step walkthrough?** > For a more detailed installation guide, please visit our knowledgebase article:  
+> [https://help.modgecko.com/en/knowledgebase/article/keyhelp-fossmanager](https://help.modgecko.com/en/knowledgebase/article/keyhelp-fossmanager)
 
 1. Clone or download this repository into your FOSSBilling `/library/Server/Manager` directory.
 2. Configure a new server in FOSSBilling using this module.
@@ -85,4 +96,5 @@ You may use, modify, and redistribute the module **as long as credit is preserve
 
 ## Credits
 
-- **[@Pyryxe (Hadrian)](https://github.com/Pyryxe)** – Author & Maintainer
+- **[ModGecko](https://modgecko.com)** – Project Maintainer
+- **[@Pyryxe (Hadrian)](https://github.com/Pyryxe)** – Lead Developer
