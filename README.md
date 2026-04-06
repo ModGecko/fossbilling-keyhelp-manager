@@ -42,8 +42,6 @@ It handles:
 
 ## Installation
 
-> 📖 **Need a step-by-step guide?** > Check out our knowledgebase article: [https://help.modgecko.com/en/knowledgebase/article/keyhelp-fossmanager](https://help.modgecko.com/en/knowledgebase/article/keyhelp-fossmanager)
-
 1. Clone or download this repo into your FOSSBilling `/library/Server/Manager` folder.
 2. Set up a new server in FOSSBilling and select this module.
 3. Enter your **KeyHelp hostname/IP**. 
