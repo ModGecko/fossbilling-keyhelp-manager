@@ -3,19 +3,24 @@
 ![PHP](https://img.shields.io/badge/PHP-8.2+-blue)
 ![FOSSBilling](https://img.shields.io/badge/FOSSBilling-0.7.2+-green)
 ![License](https://img.shields.io/badge/License-GPLv3-blue)
+![Status](https://img.shields.io/badge/Status-End_of_Life-red)
 
-> [!TIP]
-> ### 🛠️ Need Support?
-> * **🐛 Bug Reports:** Found a glitch? Open a public [Issue on GitHub](https://github.com/ModGecko/fossbilling-keyhelp-manager/issues).
+> [!WARNING]
+> ### 🛑 End of Support
+> This module is no longer maintained. Please read the End of Life notice below.
 
 ---
 
-## ⚠️ Maintenance Status
+## 🛑 End of Life (EOL)
 
-The module should be fully working unless reported otherwise. I don't actively use this module myself anymore, but I will happily maintain it if needed. 
+**This module has reached its End of Life.**
 
-If the module stops working or the API breaks, report it and I'll patch it. 
-**Note:** I am only pushing security patches and updates to keep it functioning—I won't be adding any new features or quality-of-life updates. 
+Due to a lack of real interest from the community, we will no longer provide any updates to this module. Moving forward, there will be:
+- **No** quality-of-life updates
+- **No** bug fixes or API patches
+- **No** security updates
+
+The repository will remain available as-is, but please use it at your own risk. Feel free to use, modify, and redistribute it—just keep the credits intact and derivatives open source.
 
 ---
 
